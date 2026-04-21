@@ -10,7 +10,7 @@ Le notebook principal est:
 
 Ajoutez ici le lien de votre repository:
 
-- GitHub: `https://github.com/Soumia191/TP1-SMA-Multi-Agent.git`
+- GitHub: `https://github.com/Soumia191/Multi-Agent.git`
 
 ## Objectifs du TP
 
